@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Json Api</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
